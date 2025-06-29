@@ -1,12 +1,13 @@
 <h1 align="center">Hi , my name is Yaury</h1>
 
-###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/74c19065b55bba793d711e8d697665de48ed02aeedeaf4b8f85a6a3a06f9f10b/68747470733a2f2f692e67696665722e636f6d2f6371532e676966"  />
 
 ###
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9oYTRuczlzaDQzNXZ3MHRueWwwMmhpc3d5N2lrYTJuZzV2cWlsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TTedQxhzd5T4A/giphy.gif" alt="Banner"/>
+</div>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -26,7 +27,7 @@
 
 ###
 <h3 align="center" style="font-weight:bold;color:white;">
-    Snaky Snakeyy !!!
+    Snake looking for the apple ~( 0_=)~
   
 </h3>
 <h3 align="center" style="font-weight:bold;color:white;">
