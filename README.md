@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center" style="font-weight:bold;color:white;">
-    <img align="center" src="https://komarev.com/ghpvc/?username=YauryRP&label=Profile%20views&color=993399&style=flat" alt="Profile Views" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=YauryRP&label=Profile%20views&color=FFC0CB&style=flat" alt="Profile Views" />
 </h3>
 
 <div align="center">
