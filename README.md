@@ -30,7 +30,7 @@
 ###
 
 <h3 align="center" style="font-weight:bold;color:white;">
-    💖 Snake looking for the apple ~(0_=)~
+    💖 Snake looking for the apple~(0_=)~
 <h3 align="center" style="font-weight:bold;color:white;">
     <img src="https://raw.githubusercontent.com/YauryRP/YauryRP/main/github-user-contribution.svg">
 
