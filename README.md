@@ -41,10 +41,6 @@
 
 </h3>
 
-<h3 align="center" style="font-weight:bold;color:white;">
-    Yaury's GitHub Statics
-</h3>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YauryRP&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Yaury's GitHub Statistics" />
 </p>
