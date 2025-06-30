@@ -7,6 +7,10 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9oYTRuczlzaDQzNXZ3MHRueWwwMmhpc3d5N2lrYTJuZzV2cWlsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TTedQxhzd5T4A/giphy.gif" alt="Banner"/>
 </div>
 
+<h3 align="center" style="font-weight:bold;color:white;">
+    <img align="center" src="https://komarev.com/ghpvc/?username=YauryRP&label=Profile%20views&color=993399&style=flat" alt="Profile Views" />
+</h3>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
